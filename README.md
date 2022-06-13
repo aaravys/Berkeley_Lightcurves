@@ -1,7 +1,7 @@
 # Berkeley_Lightcurves
 
 **What is this script about?**
-This script work regarding regarding SETI. This script can plot lightcurves. We can track abnormalities in the light curve to potentially identify exoplanets(potential homes to ETs).
+This script is regarding the SETI. This script can plot lightcurves. We can track abnormalities in the light curve to potentially identify exoplanets(potential homes to ETs).
 
 **What is this script for myself and others in the future?**
 This script will help us to identify exoplanets based on abornmalities in a star's light curve.
